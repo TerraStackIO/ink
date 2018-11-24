@@ -1,6 +1,7 @@
 {
-	"name": "@terrastack@ink",
+	"name": "@terrastack/ink",
 	"version": "2.0.0",
+	"private": false,
 	"description": "React for CLI. Temporary fork of https://github.com/vadimdemedes/ink",
 	"license": "MIT",
 	"repository": "TerraStackIO/ink",
